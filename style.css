@@ -5,8 +5,8 @@ img {
 
 @font-face {
         font-family: 'quicksand';
-        src: url(/quicksand/quicksand-variablefont_wght-webfont.woff) format('woff');
-        src: url(/quicksand/quicksand-variablefont_wght-webfont.woff2) format('woff2');
+        src: url(/kixrd-website/quicksand/quicksand-variablefont_wght-webfont.woff) format('woff');
+        src: url(/kixrd-website/quicksand/quicksand-variablefont_wght-webfont.woff2) format('woff2');
 }
 
 h1,
